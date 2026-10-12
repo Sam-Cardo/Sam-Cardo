@@ -3,8 +3,6 @@
 ---
 
 ### 👨‍💻 Computer Programming Student | Tech Enthusiast  
-🚀 Aspiring Intelligence/Cyber Operator in the CAF  
-🎓 Studying at St. Lawrence College  
 💻 Skilled in:  C++, C#, Java, JavaScript, PHP, SQL, Lua, Linux  
 
 ![Coding GIF](https://github.com/deadender83/Home-Page/blob/main/coding.gif)
